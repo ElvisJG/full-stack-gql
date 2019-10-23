@@ -1,4 +1,4 @@
-const { gql } = require("apollo-server");
+const { gql } = require('apollo-server');
 
 /**
  * Type Definitions for our Schema using the SDL.
